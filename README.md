@@ -1,4 +1,4 @@
-# Week 10: CommunityHub API
+# Week 10: Slayer API
 
 ## Author
 - Name: Britney Muthoni 
