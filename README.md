@@ -1,8 +1,8 @@
 # Week 10: CommunityHub API
 
 ## Author
-- Name: Your Full Name
-- GitHub: @yourusername
+- Name: Britney Muthoni 
+- GitHub: @britneymuthoni67
 - Date: May 10, 2026
 
 ## Project Description
